@@ -13,5 +13,5 @@ huaqiao University
 fujian,China
 
 #### Research Interests
-Federated Learning, Artificial Intelligence Seismology, Privacy Protection.
+Federated Learning, Artificial Intelligence, Privacy Protection.
 
